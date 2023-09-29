@@ -1,3 +1,3 @@
 # Github Tutorial
 
-This is how it goes
+This is how it goes!
