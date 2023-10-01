@@ -8,6 +8,6 @@ more changes
 
 ## Local develoment
 
-!. Open index.html file
+1. Open index.html file
 
 
