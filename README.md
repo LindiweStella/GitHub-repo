@@ -1,6 +1,6 @@
 # Github Tutorial
 
-This is how it goes!
+how it goes!
 
 changes
 
