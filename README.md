@@ -6,4 +6,8 @@ changes
 
 more changes
 
+## Local develoment
+
+1. Open index.html file
+
 
